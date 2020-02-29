@@ -8,13 +8,34 @@
         content="user-scalable=yes, initial-scale=1, width=device-width" />
     <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.3.1/css/all.css'>
     <link rel="stylesheet" href="./style.css">
-
+    <style>
+        .button9 {
+        background-color: blue;
+        border: none;
+        color: white;
+        padding: 16px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        -webkit-transition-duration: 0.4s; 
+        transition-duration: 0.4s;
+        cursor: pointer;
+        border-radius: 4px;
+        }
+        .button9:hover {
+        background-color: skyblue;
+        color: white;
+        font-weight: bold;
+    </style>    
+}
 </head>
 
 <body>
-    
     <!-- partial:index.partial.html -->
     <!-- Tracks used in this music/audio player application are free to use. I downloaded them from Soundcloud and NCS websites. I am not the owner of these tracks. -->
+    <button class="button9" onclick="window.location.href = 'https://sterbenloil.github.io/Music-Player/';">Foreign Songs</button>
     <h1 id="message">Listen and feel the rhythm.</h1>
     <div id="app-cover">
         <div id="bg-artwork"></div>
@@ -35,7 +56,7 @@
             </div>
             <div id="player-content">
                 <div id="album-art">
-                    <img src="./bg.jpg"
+                    <img src="./Picture/bg (1).jpg"
                         class="active" id="_1">
                     <div id="buffer-box">buffering...</div>
                 </div>
