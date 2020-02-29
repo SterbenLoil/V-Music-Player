@@ -4,254 +4,254 @@ $(function()
      {
 		artist: "Andiez",
 		name: "1 Phút",
-		url: "./Music/1 Phút - Andiez.mp3",
+		url: "./Music/(18).mp3",
 		picture: "./bg.jpg"
 	},
     {
 		artist: "Pháo x Masew",
 		name: "2 Phút Hơn",
-		url: "./Music/2 Phút Hơn - Pháo x Masew.mp3",
+		url: "./Music/(19).mp3",
 		picture: "./bgbg.jpg"
     	},
     {
 		artist: "BRay",
 		name: "Yêu Như Trẻ Con",
-		url: "./Music/B RAY YÊU NHƯ TRẺ CON Official MV.mp3",
+		url: "./Music/(17).mp3",
 		picture: "./bg.jpg"
    	},
     {
 		artist: "B Ray x AMEE x Masew",
 		name: "Do For Love",
-		url: "./Music/B RAY x AMEE x MASEW DO FOR LOVE Official MV.mp3",
+		url: "./Music/(30).mp3",
 		picture: "./bg.jpg"
    	},
     {
 		artist: "ĐạtG x DuUyên",
 		name: "Bánh Mì Không",
-		url: "./Music/Bánh Mì Không - ĐạtG x DuUyên OFFICIAL MV.mp3",
+		url: "./Music/(20).mp3",
 		picture: "./bg.jpg"
    	},
     {
 		artist: "B ray x ĐạtG ft Masew x K-ICM",
 		name: "Cao Ốc 20",
-		url: "./Music/Cao Ốc 20 B RAY x DatG (ft MASEW x K-ICM) MV OFFICIAL.mp3",
+		url: "./Music/(22).mp3",
 		picture: "./bg.jpg"
    	},
     {
 		artist: "Emcee ft. Linh Cáo",
 		name: "Chỉ Là Số Hai",
-		url: "./Music/Chỉ Là Số Hai - Emcee L ft. Linh Cáo (Official Audio).mp3",
+		url: "./Music/(23).mp3",
 		picture: "./bg.jpg"
    	},
     {
 		artist: "Phan Mạnh Quỳnh",
 		name: "Có Chàng Trai Viết Lên Cây",
-		url: "./Music/Có Chàng Trai Viết Lên Cây - Phan Mạnh Quỳnh MẮT BIẾC OST.mp3",
+		url: "./Music/(24).mp3",
 		picture: "./bg.jpg"
    	},
     {
 		artist: "Lou Hoàng",
 		name: "Cảm Giác Lúc Ấy Sẽ Ra Sao",
-		url: "./Music/CẢM GIÁC LÚC ẤY SẼ RA SAO LOU HOÀNG OFFICIAL AUDIO.mp3",
+		url: "./Music/(21).mp3",
 		picture: "./bg.jpg"
    	},
     {
 		artist: "Jack x K-ICM",
 		name: "Em Gì Ơi",
-		url: "./Music/EM GÌ ƠI K-ICM x JACK OFFICIAL MUSIC VIDEO.mp3",
+		url: "./Music/(31).mp3",
 		picture: "./bg.jpg"
    	},
     {
 		artist: "B Ray x Masew ft. AMEE",
 		name: "Ex's Hate Me",
-		url: "./Music/Ex's Hate Me - B Ray x Masew (Ft AMEE) Official MV.mp3",
+		url: "./Music/(32).mp3",
 		picture: "./bg.jpg"
    	},
     {
 		artist: "Nguyễn Trọng tài x San Ji x Double X",
 		name: "HongKong1",
-		url: "./Music/HongKong1 OFFICIAL MV Nguyễn Trọng Tài x San Ji x Double X.mp3",
+		url: "./Music/(34).mp3",
 		picture: "./bg.jpg"
    	},
     {
 		artist: "Đức Phúc",
 		name: "Hơn Cả Yêu",
-		url: "./Music/HƠN CẢ YÊU - ĐỨC PHÚC OFFICIAL MUSIC VIDEO.mp3",
+		url: "./Music/(33).mp3",
 		picture: "./bg.jpg"
    	},
     {
 		artist: "ĐạtG x DuUyên",
 		name: "Khó Vẽ Nụ Cười",
-		url: "./Music/Khó Vẽ Nụ Cười (Audio) - ĐạtG x DuUyên.mp3",
+		url: "./Music/(35).mp3",
 		picture: "./bg.jpg"
    	},
     {
 		artist: "Lou Hoàng",
 		name: "Là Bạn Không Thể Yêu",
-		url: "./Music/LÀ BẠN KHÔNG THỂ YÊU LOU HOÀNG STAGE VERSION.mp3",
+		url: "./Music/(36).mp3",
 		picture: "./bg.jpg"
    	},
     {
 		artist: "Ngọt",
 		name: "Lần Cuối Đi Bên Em Xót Xa Người Ơi",
-		url: "./Music/LẦN CUỐI (đi bên em xót xa người ơi).mp3",
+		url: "./Music/(37).mp3",
 		picture: "./bg.jpg"
    	},
     {
 		artist: "Trúc Nhân",
 		name: "Lớn Rồi Còn Khóc Nhè",
-		url: "./Music/LỚN RỒI CÒN KHÓC NHÈ ( MV ) TRÚC NHÂN (#LRCKN).mp3",
+		url: "./Music/(39).mp3",
 		picture: "./bg.jpg"
    	},
     {
 		artist: "Kha",
 		name: "Lời Yêu Ngây Dại",
-		url: "./Music/Lời Yêu Ngây Dại - Kha.mp3",
+		url: "./Music/(38).mp3",
 		picture: "./bg.jpg"
    	},
     {
 		artist: "Da LAB ft. Tóc Tiên",
 		name: "Nước Mắt Em Lau Bằng Tình Yêu Mới",
-		url: "./Music/Nước Mắt Em Lau Bằng Tình Yêu Mới - Da LAB ft. Tóc Tiên (Official MV).mp3",
+		url: "./Music/(1).mp3",
 		picture: "./bg.jpg"
    	},
     {
 		artist: "Charles Huỳnh",
 		name: "Nắng Đã Làm Má Em Thêm Hồng",
-		url: "./Music/NẮNG ĐÃ LÀM MÁ EM THÊM HỒNG CHARLES HUYNH Acoustic「Lyric 」.mp3",
+		url: "./Music/(41).mp3",
 		picture: "./bg.jpg"
    	},
     {
 		artist: "Rhymastic",
 		name: "Nến Và Hoa",
-		url: "./Music/Rhymastic - Nen Va Hoa (Official Audio).mp3",
+		url: "./Music/(2).mp3",
 		picture: "./bg.jpg"
    	},
     {
 		artist: "Rhymastic",
 		name: "Ngọn Đuốc Đêm",
-		url: "./Music/Rhymastic - Ngọn Đuốc Đêm (Official Audio).mp3",
+		url: "./Music/(3).mp3",
 		picture: "./bg.jpg"
    	},
     {
 		artist: "Obito - W/n Remix, Cover Duongg, Tien",
 		name: "Simple Love",
-		url: "./Music/Simple love - obito (W n Remix) , Cover Duongg , Tien.mp3",
+		url: "./Music/(4).mp3",
 		picture: "./bg.jpg"
    	},
     {
 		artist: "Thịnh Suy",
 		name: "Nghe Em",
-		url: "./Music/THỊNH SUY - NGHE EM OFFICIAL MUSIC VIDEO.mp3",
+		url: "./Music/(9).mp3",
 		picture: "./bg.jpg"
    	},
     {
 		artist: "Hà Anh Tuấn",
 		name: "Tháng Tư Là Lời Nói Dối Của Em",
-		url: "./Music/Tháng Tư Là Lời Nối Dối Của Em [Official Lyric Video] - Hà Anh Tuấn.mp3",
+		url: "./Music/(7).mp3",
 		picture: "./bg.jpg"
    	},
     {
 		artist: "Thịnh Suy",
 		name: "Một Đêm Say",
-		url: "./Music/Thịnh Suy - MỘT ĐÊM SAY (X).mp3",
+		url: "./Music/(8).mp3",
 		picture: "./bg.jpg"
    	},
     {
 		artist: "Ngô Kiến Huy (Masew Remix)",
 		name: "Truyền Thái Y",
-		url: "./Music/Truyền Thái Y - Ngô Kiến Huy ( Masew Remix ).mp3",
+		url: "./Music/(10).mp3",
 		picture: "./bg.jpg"
    	},
     {
 		artist: "Trịnh Thăng Bình",
 		name: "Tâm Sự Tuối 30",
-		url: "./Music/TÂM SỰ TUỔI 30 TRỊNH THĂNG BÌNH OST ÔNG NGOẠI TUỔI 30.mp3",
+		url: "./Music/(5).mp3",
 		picture: "./bg.jpg"
    	},
     {
 		artist: "Xesi x Masew x Nhatnguyen",
 		name: "Túy Âm",
-		url: "./Music/Túy Âm - Xesi x Masew x Nhatnguyen.mp3",
+		url: "./Music/(13).mp3",
 		picture: "./bg.jpg"
    	},
     {
 		artist: "Will x Han Sara",
 		name: "Tận Cùng Nỗi Nhớ",
-		url: "./Music/Tận Cùng Nỗi Nhớ (TCNN) Will x Han Sara Official Music Video.mp3",
+		url: "./Music/(6).mp3",
 		picture: "./bg.jpg"
    	},
     {
 		artist: "Phan Mạnh Quỳnh",
 		name: "Từ Đó",
-		url: "./Music/TỪ ĐÓ - PHAN MẠNH QUỲNH MẮT BIẾC OST.mp3",
+		url: "./Music/(11).mp3",
 		picture: "./bg.jpg"
    	},
     {
 		artist: "Da LAB",
 		name: "Từ Ngày Em Đến",
-		url: "./Music/Từ Ngày Em Đến - Da LAB (Official MV).mp3",
+		url: "./Music/(12).mp3",
 		picture: "./bg.jpg"
    	},
     {
 		artist: "Việt",
 		name: "Bông Hoa Chẳng Thuộc Về Ta",
-		url: "./Music/Việt Bông Hoa Chẳng Thuộc Về Ta (Official Lyrics Video).mp3",
+		url: "./Music/(16).mp3",
 		picture: "./bg.jpg"
    	},
     {
 		artist: "Lou Hoàng",
 		name: "Vì Yêu Anh Sẽ",
-		url: "./Music/VÌ YÊU ANH SẼ OFFICIAL MV LOU HOÀNG.mp3",
+		url: "./Music/(14).mp3",
 		picture: "./bg.jpg"
    	},
 
     {
 		artist: "MIN x Đen X Justatee",
 		name: "Vì Yêu Cứ Đâm Đầu",
-		url: "./Music/VÌ YÊU CỨ ĐÂM ĐẦU (VYCĐĐ) MIN x ĐEN x JUSTATEE OFFICIAL MUSIC VIDEO (민).mp3",
+		url: "./Music/(15).mp3",
 		picture: "./bg.jpg"
    	},
 
     {
 		artist: "nân. x Ngơ",
 		name: "Tình Đắng Như Ly Cà Phê",
-		url: "./Music/nân. x Ngơ - tình đắng như ly cà phê (Lyric Video) tas release.mp3",
+		url: "./Music/(40).mp3",
 		picture: "./bg.jpg"
    	},
 
     {
 		artist: "Đen",
 		name: "Anh Đếch Cần Gì Nhiều Ngoài Em",
-		url: "./Music/Đen - Anh Đếch Cần Gì Nhiều Ngoài Em ft. Vũ., Thành Đồng (M V).mp3",
+		url: "./Music/(25).mp3",
 		picture: "./bg.jpg"
    	},
 
     {
 		artist: "Đen ft. Phương Anh Đào",
 		name: "Lối Nhỏ",
-		url: "./Music/Đen - Lối Nhỏ ft. Phương Anh Đào (M V).mp3",
+		url: "./Music/(27).mp3",
 		picture: "./bg.jpg"
    	},
 
     {
 		artist: "Đen ft. Biên",
 		name: "Hai Triệu Năm",
-		url: "./Music/Đen - hai triệu năm ft. Biên (m v).mp3",
+		url: "./Music/(26).mp3",
 		picture: "./bg.jpg"
    	},
 
     {
 		artist: "Đen ft. Thành Đồng",
 		name: "Một Triệu Like",
-		url: "./Music/Đen - một triệu like ft. Thành Đồng (M V).mp3",
+		url: "./Music/(28).mp3",
 		picture: "./bg.jpg"
    	},
 
     {
 		artist: "Đen ft. MIN",
 		name: "Bài Này Chill Phết",
-		url: "./Music/Đen ft. MIN - Bài Này Chill Phết (M V).mp3",
+		url: "./Music/(29).mp3",
 		picture: "./bg.jpg"
    	},
 
