@@ -257,7 +257,7 @@ $(function()
 
 		
    ];
-   	var playerTrack = $("#player-track");
+    	var playerTrack = $("#player-track");
 	var bgArtwork = $('#bg-artwork');
 	var bgArtworkUrl;
 	var albumName = $('#album-name');
@@ -289,7 +289,7 @@ $(function()
 		}
 		return a;
 	}
-	// songs = shuffle(songs);
+	songs = shuffle(songs);
 
     function playPause()
     {
@@ -580,3 +580,4 @@ $(function()
     
 	initPlayer();
 });
+
